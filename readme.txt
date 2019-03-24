@@ -3,5 +3,9 @@ Git is free software distributed under GPL
 Git has a mutable index called stage
 Git tracks changes of files
 creat a new branch dev
-its master
+<<<<<<< HEAD
+its feature1
 
+=======
+its feature1
+>>>>>>> feature1
